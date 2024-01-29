@@ -10,11 +10,10 @@ when you hit the button, it will call the post url you put it (which should be /
 You need a webserver, I use IFast for cheap hosting.
 https://www.ifastnet.com/index.php
 
+If you are doing it on a IFASTNET webserver, to set it up just go to manage files.
 <img width="816" alt="image" src="https://github.com/andrewm1tchell/PHP-Farcaster-Frame/assets/5866724/0a7b2732-3297-48c2-ac89-249f0965f4d7">
-If you are doing it on a IFASTNET webserver, just go to manage files.
 
 Put your files in the public_html folder.
-
 <img width="197" alt="image" src="https://github.com/andrewm1tchell/PHP-Farcaster-Frame/assets/5866724/58fd5944-e0fc-4750-b2c4-1d22cbadddfb">
 
 
